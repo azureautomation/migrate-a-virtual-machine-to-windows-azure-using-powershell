@@ -1,0 +1,20 @@
+{
+    "Author": "michaelwasham",
+    "ContentSize": 1946,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/migrate-a-virtual-machine-to-windows-azure-using-powershell/master/migrate-vm-azure.ps1",
+    "DownloadCount": 1909,
+    "Id": "Migrate-a-Virtual-Machine-0c533380",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 395,
+    "RaterCount": 1,
+    "Rating": 3.0,
+    "ReleaseDate": "2013-1-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This example uploads two VHD files to a Windows Azure Storage Account using the Add-AzureVHD cmdlet. Once uploaded it then creates the disk references and then creates a new Windows Azure VM based off of the disks.",
+    "Title": "Migrate a Virtual Machine to Windows Azure using PowerShell",
+    "UpdatedDate": "2013-1-4T00:00:00",
+    "Url": "https://github.com/azureautomation/migrate-a-virtual-machine-to-windows-azure-using-powershell",
+    "UserTags": "IaaS, Windows Azure Virtual Machines, Cloud Migration"
+}
